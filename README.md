@@ -18,9 +18,9 @@ The dashboard provides insights into the economic trends using the following vis
 - By comparing Rural and Urban CPI we used a Grouped bar chart for them over months.
 ## Files in the Repository
 1. **dashboard_script.py**
-   - Contains the code for the dashboard built using Dash.
+   - Contains the code for the dashboard built in python.
 2. **video_demo.mp4**
-   - There's also a video file here demonstrating the my user interface and functionality of the dashboard. Recorded using screen recording software.
+   - There's also a video file here demonstrating the user interface and functionality of the dashboard. Recorded using screen recording software.
 3. **data_gdp.csv**
    - Excel file containing GDP data for analysis.
 4. **data_cpi.csv**
